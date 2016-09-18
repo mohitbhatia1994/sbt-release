@@ -1,0 +1,117 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "sbt-release@^1.0.1",
+        "scope": null,
+        "escapedName": "sbt-release",
+        "name": "sbt-release",
+        "rawSpec": "^1.0.1",
+        "spec": ">=1.0.1 <2.0.0",
+        "type": "range"
+      },
+      "/Users/mohitbhatia/Desktop/release_npm"
+    ]
+  ],
+  "_from": "sbt-release@>=1.0.1 <2.0.0",
+  "_id": "sbt-release@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/sbt-release",
+  "_nodeVersion": "4.4.4",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/sbt-release-1.0.1.tgz_1472246437474_0.7702141162008047"
+  },
+  "_npmUser": {
+    "name": "mohitbhatia1994",
+    "email": "mohitbhatia1994@gmail.com"
+  },
+  "_npmVersion": "2.15.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "sbt-release@^1.0.1",
+    "scope": null,
+    "escapedName": "sbt-release",
+    "name": "sbt-release",
+    "rawSpec": "^1.0.1",
+    "spec": ">=1.0.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sbt-release/-/sbt-release-1.0.1.tgz",
+  "_shasum": "fb57f0a63887df9d773d36790e5f3728bb98fcc4",
+  "_shrinkwrap": null,
+  "_spec": "sbt-release@^1.0.1",
+  "_where": "/Users/mohitbhatia/Desktop/release_npm",
+  "author": {
+    "name": "Mohit Bhatia",
+    "email": "mohitbhatia1994@gmail.com"
+  },
+  "bin": {
+    "sbt-release": "./bin/release.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ntoggle/release-it/issues"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "github": "^2.4.0",
+    "glob": "^7.0.3",
+    "graceful-fs": "^4.1.3",
+    "inquirer": "^1.0.2",
+    "lodash": "^4.6.1",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "parse-repo": "^1.0.1",
+    "semver": "^5.1.0",
+    "shelljs": "^0.7.0",
+    "when": "^3.7.7"
+  },
+  "description": "Interactive release tool for Git repositories. Increment version, commit, tag, push, build, publish to npm. Supports to build and release to a distribution/component repository.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "fb57f0a63887df9d773d36790e5f3728bb98fcc4",
+    "tarball": "https://registry.npmjs.org/sbt-release/-/sbt-release-1.0.1.tgz"
+  },
+  "gitHead": "47fbb8036e95ed894641253395f6097bc249fa94",
+  "homepage": "https://github.com/ntoggle/release-it#readme",
+  "keywords": [
+    "build",
+    "commit",
+    "distribution",
+    "git",
+    "github",
+    "interactive",
+    "npm",
+    "publish",
+    "push",
+    "release",
+    "repository",
+    "script",
+    "shell",
+    "tag",
+    "tool",
+    "version"
+  ],
+  "license": "MIT",
+  "main": "./lib/release.js",
+  "maintainers": [
+    {
+      "name": "mohitbhatia1994",
+      "email": "mohitbhatia1994@gmail.com"
+    }
+  ],
+  "name": "sbt-release",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ntoggle/release-it.git"
+  },
+  "scripts": {},
+  "version": "1.0.1"
+}
