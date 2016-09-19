@@ -1,6 +1,4 @@
 #!/usr/bin/env node
 
-const fs = require('fs');
-var release = require('../lib/release');
-var semver = release.semver;
+const release = require('../lib/release');
 release.execute(process.argv);
