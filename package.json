@@ -2,19 +2,19 @@
   "_args": [
     [
       {
-        "raw": "sbt-release@^1.0.1",
+        "raw": "sbt-release@^1.0.2",
         "scope": null,
         "escapedName": "sbt-release",
         "name": "sbt-release",
-        "rawSpec": "^1.0.1",
-        "spec": ">=1.0.1 <2.0.0",
+        "rawSpec": "^1.0.2",
+        "spec": ">=1.0.2 <2.0.0",
         "type": "range"
       },
       "/Users/mohitbhatia/Desktop/release_npm"
     ]
   ],
-  "_from": "sbt-release@>=1.0.1 <2.0.0",
-  "_id": "sbt-release@1.0.1",
+  "_from": "sbt-release@>=1.0.2 <2.0.0",
+  "_id": "sbt-release@1.0.2",
   "_inCache": true,
   "_installable": true,
   "_location": "/sbt-release",
@@ -30,12 +30,12 @@
   "_npmVersion": "2.15.1",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "sbt-release@^1.0.1",
+    "raw": "sbt-release@^1.0.2",
     "scope": null,
     "escapedName": "sbt-release",
     "name": "sbt-release",
-    "rawSpec": "^1.0.1",
-    "spec": ">=1.0.1 <2.0.0",
+    "rawSpec": "^1.0.2",
+    "spec": ">=1.0.2 <2.0.0",
     "type": "range"
   },
   "_requiredBy": [
@@ -44,7 +44,7 @@
   "_resolved": "https://registry.npmjs.org/sbt-release/-/sbt-release-1.0.1.tgz",
   "_shasum": "fb57f0a63887df9d773d36790e5f3728bb98fcc4",
   "_shrinkwrap": null,
-  "_spec": "sbt-release@^1.0.1",
+  "_spec": "sbt-release@^1.0.2",
   "_where": "/Users/mohitbhatia/Desktop/release_npm",
   "author": {
     "name": "Mohit Bhatia",
